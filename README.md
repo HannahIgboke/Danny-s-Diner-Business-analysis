@@ -88,37 +88,44 @@ Customer A first ordered sushi on his first visit to the restaurant. Customer B,
 ![Solution_3](Images/Solution_three.PNG)
 
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
+
 The most purchased item on the menu is ramen, purchased a total of 8 times by all customers. This is followed by curry, four times and sushi thrice.
 
 ![Solution_4](Images/Solution_four.PNG)
 
 5. Which item was the most popular for each customer?
+
 The most popular item for each customer was determined by the number of times each item on the menu was purchased. For customer A, it was ramen. All items(sushi, curry and ramen) were equally popular for customer B whilst customer C ramen more.
 
 ![Solution_5](Images/Solution_five.PNG)
 
 6. Which item was purchased first by the customer after they became a member?
+
 A customer becomes a member after registration. After Customer A became a memeber he ordered ramen while customer B ordered sushi. Customer C is yet to become a member.
 
 ![Solution_6](Images/Solution_six.PNG)
 
 7. Which item was purchased just before the customer became a member?
+
 Just before customer A became a member, he purchased sushi and curry. Customer B purchased sushi.
 
 ![Solution_7](Images/Solution_seven.PNG)
 
 8. What is the total items and amount spent for each member before they became a member?
+
 Customer A spent a total of $25 on two items(sushi and curry) and Customer B a total of $40 on three items(curry, sushi, and curry).
 
 ![Solution_8](Images/Solution_eight.PNG)
 
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+
 Customer B has the most points with 940 points, followed by Customer A with 860 points and customer C with 360 points.
 
 ![Solution_9](Images/Solution_nine.PNG)
 
 
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+    
 Customer A has 1,520 points by the end of January
 
 ![Solution_10](Images/Solution_ten.PNG)
