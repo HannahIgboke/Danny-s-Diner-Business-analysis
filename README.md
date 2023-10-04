@@ -36,7 +36,7 @@ Danny provided me with a sample of his overall customer data due to privacy issu
 - menu
 - members
 
-The Relationship diagram(known as Entity Realtionship Diagram - ERD) for these datasets is shown below
+The Relationship diagram(known as Entity Relationship Diagram - ERD) for these datasets is shown below
 
 ![ERD](Images/ERD.PNG)
 
