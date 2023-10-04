@@ -53,10 +53,10 @@ The following skills/concepts were demonstrated in the course of this project:
 
 ## Data Analysis
 
-I used MySQL Workbench to create a [database](Database_creation.sql) for Danny's Diner and for the entire analysis.
+I used MySQL Workbench to create a [database](SQL_files/Database_creation.sql) for Danny's Diner and for the entire analysis.
 
 ### Exploratory data analysis
-The code for the exploratory data analysis can be found [here](EDA.sql). 
+The code for the exploratory data analysis can be found [here](SQL_files/EDA.sql). 
 
 Sales                             |Menu                       |Members
 ----------------------------------|---------------------------|-------------
@@ -65,7 +65,7 @@ Sales                             |Menu                       |Members
 
 ### Solutions to Business questions
 
-Solutions to the business questions were written in [SQL codes](Data_analysis.sql) in MySQL relational database
+Solutions to the business questions were written in [SQL codes](SQL_files/Data_analysis.sql) in MySQL relational database
 
 1. What is the total amount each customer spent at the restaurant?
 
@@ -93,22 +93,30 @@ Solutions to the business questions were written in [SQL codes](Data_analysis.sq
 
 6. Which item was purchased first by the customer after they became a member?
 
-
+![Solution_6](Images/Solution_six.PNG)
 
 7. Which item was purchased just before the customer became a member?
 
-
+![Solution_7](Images/Solution_seven.PNG)
 
 8. What is the total items and amount spent for each member before they became a member?
 
-
+![Solution_8](Images/Solution_eight.PNG)
 
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
-
+![Solution_9](Images/Solution_nine.PNG)
 
 
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
+
+![Solution_10](Images/Solution_ten.PNG)
+
+
+
+
+
+## Conclusion and Recommendations
 
 
