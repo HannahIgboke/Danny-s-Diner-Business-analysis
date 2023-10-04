@@ -55,8 +55,8 @@ The following skills/concepts were demonstrated in the course of this project:
 
 I used MySQL Workbench to create a [database](SQL_files/Database_creation.sql) for Danny's Diner and for the entire analysis.
 
-### Exploratory data analysis
-The code for the exploratory data analysis can be found [here](SQL_files/EDA.sql). 
+### Exploratory data analysis (EDA)
+I carried out an EDA on the datasets provided to understand the basic characteristics of data which is essential for developing accurate and meaningful insights from the data. The code for the exploratory data analysis can be found [here](SQL_files/EDA.sql). 
 
 Sales                             |Menu                       |Members
 ----------------------------------|---------------------------|-------------
@@ -101,7 +101,7 @@ The most popular item for each customer was determined by the number of times ea
 
 6. Which item was purchased first by the customer after they became a member?
 
-A customer becomes a member after registration. After Customer A became a memeber he ordered ramen while customer B ordered sushi. Customer C is yet to become a member.
+A customer becomes a member after registration. After Customer A became a member he ordered ramen while customer B ordered sushi. Customer C is yet to become a member.
 
 ![Solution_6](Images/Solution_six.PNG)
 
