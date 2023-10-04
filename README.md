@@ -60,7 +60,7 @@ The code for the exploratory data analysis can be found [here](EDA.sql).
 
 Sales                             |Menu                       |Members
 ----------------------------------|---------------------------|-------------
-![Sales](Images/Sales_table.PNG)  |![Menu](Menu_table.PNG)   |![Members](Images/Members_table.PNG)
+![Sales](Images/Sales_table.PNG)  |![Menu](Menu_table.PNG)    |![Members](Images/Members_table.PNG)
 
 
 ### Solutions to Business questions
@@ -70,26 +70,26 @@ Solutions to the business questions were written in [SQL codes](Data_analysis.sq
 1. What is the total amount each customer spent at the restaurant?
 
 
-![Solution_1](Images/Solution one.PNG)
+![Solution_1](Images/Solution_one.PNG)
 
 
 
 2. How many days has each customer visited the restaurant?
 
-![Solution_2](Images/Solution two.PNG)
+![Solution_2](Images/Solution_two.PNG)
 
 
 3. What was the first item from the menu purchased by each customer?
 
-
+![Solution_3](Images/Solution_three.PNG)
 
 4. What is the most purchased item on the menu and how many times was it purchased by all customers?
 
-
+![Solution_4](Images/Solution_four.PNG)
 
 5. Which item was the most popular for each customer?
 
-
+![Solution_5](Images/Solution_five.PNG)
 
 6. Which item was purchased first by the customer after they became a member?
 
