@@ -4,10 +4,10 @@
 
 ## Introduction
 
-Danny, a passionate Japanese food lover, decided to embark on a risky venture in early 2021 by opening a charming little restaurant serving his three favorite dishes: sushi, curry, and ramen. However, after a few months of operation, Danny's Diner is struggling to stay afloat. Danny has then collected some basic data, but he doesn't know how to use it to improve his business. Hence I am playing the role of a data analyst at Danny’s Diner to help him make data driven decisions and improve his business.
+Danny, a passionate Japanese food lover, decided to embark on a risky venture in early 2021 by opening a charming little restaurant serving his three favorite dishes: sushi, curry, and ramen. However, after a few months of operation, Danny's Diner is struggling to stay afloat. Danny has then collected some basic data, but he doesn't know how to use it to improve his business. Hence, I am playing the role of a data analyst at Danny’s Diner to help him make data driven decisions and improve his business.
 
 
-_Disclaimer_:This is challenge 1 — [Danny’s Diner](https://8weeksqlchallenge.com/case-study-1/) of the [8 Weeks SQL Challenge](https://8weeksqlchallenge.com/getting-started/) by Danny Ma. 
+_P.S_:This is challenge 1 — [Danny’s Diner](https://8weeksqlchallenge.com/case-study-1/) of the [8 Weeks SQL Challenge](https://8weeksqlchallenge.com/getting-started/) by Danny Ma. 
 
 ## Problem statement
 
@@ -144,6 +144,15 @@ Danny also required further information about the ranking of customer products, 
 
 ## Conclusion and Recommendations
 
+Danny wants to decide whether to expand his existing customer loyalty program or not. From the insights generated I would recommend the following to help Danny expand his customer loyalty and create a personalized experience:
 
-Customer C is yet to be a member and should be convinced to do so.
-o use these insights to help him decide whether to expand his existing customer loyalty program.
+- Customer C is yet to be a member. Danny should offer a discount on membership and use social media to promote the membership program to convert non-members into members.
+- More data on a customer time of arrival and departure, customer feedback, customer preferences, and purchase history should be made available for further analysis and recommendations.
+- Ensure excellent customer service when customers visit the restaurant and encourage them to tell others about the restaurant (this is known as Word-of-mouth marketing)
+- Danny should introduce perks and incentives for members such as free delivery for every fifth purchase made per week, and rewards for members who reach the 5,000 point mark.
+- Further analysis should be carried out regularly and key KPI's closely monitored to know when to discontiinue, decrease or expand customer incentives and perks.
+
+By impementing the recommendations above Danny can boost sales, profits, reduce the cost of customer acquisition and ensure the longetivity of his business.
+
+
+
