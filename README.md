@@ -60,7 +60,7 @@ The code for the exploratory data analysis can be found [here](SQL_files/EDA.sql
 
 Sales                             |Menu                       |Members
 ----------------------------------|---------------------------|-------------
-![Sales](Images/Sales_table.PNG)  |![Menu](Menu_table.PNG)    |![Members](Images/Members_table.PNG)
+![Sales](Images/Sales_table.PNG)  |![Menu](Images/Menu_table.PNG)    |![Members](Images/Members_table.PNG)
 
 
 ### Solutions to Business questions
@@ -144,15 +144,15 @@ Danny also required further information about the ranking of customer products, 
 
 ## Conclusion and Recommendations
 
-Danny wants to decide whether to expand his existing customer loyalty program or not. From the insights generated I would recommend the following to help Danny expand his customer loyalty and create a personalized experience:
+Danny wants to decide whether to expand his existing customer loyalty program or not. From the insights generated I would recommend the following to help Danny expand his customer loyalty and create a personalized experience for his customers:
 
 - Customer C is yet to be a member. Danny should offer a discount on membership and use social media to promote the membership program to convert non-members into members.
 - More data on a customer time of arrival and departure, customer feedback, customer preferences, and purchase history should be made available for further analysis and recommendations.
-- Ensure excellent customer service when customers visit the restaurant and encourage them to tell others about the restaurant (this is known as Word-of-mouth marketing)
+- He should ensure excellent customer service when customers visit the restaurant and encourage them to tell others about the restaurant (this is known as Word-of-mouth marketing).
 - Danny should introduce perks and incentives for members such as free delivery for every fifth purchase made per week, and rewards for members who reach the 5,000 point mark.
 - Further analysis should be carried out regularly and key KPI's closely monitored to know when to discontiinue, decrease or expand customer incentives and perks.
 
-By impementing the recommendations above Danny can boost sales, profits, reduce the cost of customer acquisition and ensure the longetivity of his business.
+By impementing the recommendations above Danny can boost sales, and profits, reduce the cost of customer acquisition and ensure the longetivity of his business.
 
 
 
