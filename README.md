@@ -150,9 +150,9 @@ Danny wants to decide whether to expand his existing customer loyalty program or
 - More data on a customer time of arrival and departure, customer feedback, customer preferences, and purchase history should be made available for further analysis and recommendations.
 - He should ensure excellent customer service when customers visit the restaurant and encourage them to tell others about the restaurant (this is known as Word-of-mouth marketing).
 - Danny should introduce perks and incentives for members such as free delivery for every fifth purchase made per week, and rewards for members who reach the 5,000 point mark.
-- Further analysis should be carried out regularly and key KPI's closely monitored to know when to discontiinue, decrease or expand customer incentives and perks.
+- Further analysis should be carried out regularly and key KPI's closely monitored to know when to discontinue, decrease or expand customer incentives and perks.
 
-By impementing the recommendations above Danny can boost sales, and profits, reduce the cost of customer acquisition and ensure the longetivity of his business.
+By implementing the recommendations above Danny can boost sales, and profits, reduce the cost of customer acquisition and ensure the longevity of his business.
 
 
 
