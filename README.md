@@ -126,13 +126,13 @@ Customer B has the most points with 940 points, followed by Customer A with 860 
 
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
     
-Customer A has 1,370 points by the end of January and customer B a total of 940. 
+Customer A had 1,370 points by the end of January, and Customer B had a total of 940.
 
 ![Solution_10](Images/Solution_ten.jpg)
 
 ### Joined tables from the analysis
 
-With the summary table below, Danny and his team can quickly derive insights without needing to join the underlying tables using SQL. An 'N' against any record shows that as of that date, the customer was not a member. 'Y' shows that the customer was a member as at that date.
+With the summary table below, Danny and his team can quickly derive insights without needing to join the underlying tables using SQL. An 'N' against any record shows that as of that date, the customer was not a member. 'Y' shows that the customer was a member as of that date.
 
 ![Joined_tables](Images/Joined_tables.PNG)
 
@@ -144,15 +144,15 @@ Danny also required further information about the ranking of customer products, 
 
 ## Conclusion and Recommendations
 
-Danny wants to decide whether to expand his existing customer loyalty program or not. From the insights generated I would recommend the following to help Danny expand his customer loyalty and create a personalized experience for his customers:
+Danny wants to decide whether to expand his existing customer loyalty program or not. From the insights generated, I would recommend the following to help Danny expand his customer loyalty and create a personalized experience for his customers:
 
 - Customer C is yet to be a member. Danny should offer a discount on membership and use social media to promote the membership program to convert non-members into members.
-- More data on a customer time of arrival and departure, customer feedback, customer preferences, and purchase history should be made available for further analysis and recommendations.
-- He should ensure excellent customer service when customers visit the restaurant and encourage them to tell others about the restaurant (this is known as Word-of-mouth marketing).
-- Danny should introduce perks and incentives for members such as free delivery for every fifth purchase made per week, and rewards for members who reach the 5,000 point mark.
-- Further analysis should be carried out regularly and key KPI's closely monitored to know when to discontinue, decrease or expand customer incentives and perks.
+- More data on a customer's time of arrival and departure, customer feedback, customer preferences, and purchase history should be made available for further analysis and recommendations.
+- He should ensure excellent customer service when customers visit the restaurant and encourage them to tell others about the restaurant (this is known as word-of-mouth marketing).
+- Danny should introduce perks and incentives for members, such as free delivery for every fifth purchase made per week and rewards for members who reach the 5,000-point mark.
+- Further analysis should be carried out regularly, and key KPI's should be closely monitored to know when to discontinue, decrease, or expand customer incentives and perks.
 
-By implementing the recommendations above Danny can boost sales, and profits, reduce the cost of customer acquisition and ensure the longevity of his business.
+By implementing the recommendations above, Danny can boost sales and profits, reduce the cost of customer acquisition, and ensure the longevity of his business.
 
 
 
