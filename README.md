@@ -95,7 +95,7 @@ The most purchased item on the menu is ramen, purchased a total of 8 times by al
 
 5. Which item was the most popular for each customer?
 
-The most popular item for each customer was determined by the number of times each item on the menu was purchased. For customer A, it was ramen. All items(sushi, curry and ramen) were equally popular for customer B whilst customer C ramen more.
+The most popular item for each customer was determined by the number of times each item on the menu was purchased. For customer A, it was ramen. All items(sushi, curry and ramen) were equally popular for customer B whilst customer C purchased ramen more.
 
 ![Solution_5](Images/Solution_five.PNG)
 
@@ -126,16 +126,24 @@ Customer B has the most points with 940 points, followed by Customer A with 860 
 
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
     
-Customer A has 1,520 points by the end of January
+Customer A has 1,370 points by the end of January and customer B a total of 940. 
 
-![Solution_10](Images/Solution_ten.PNG)
+![Solution_10](Images/Solution_ten.jpg)
 
+### Joined tables from the analysis
 
+With the summary table below, Danny and his team can quickly derive insights without needing to join the underlying tables using SQL. An 'N' against any record shows that as of that date, the customer was not a member. 'Y' shows that the customer was a member as at that date.
 
+![Joined_tables](Images/Joined_tables.PNG)
 
+### Ranking of customer products for member purchases
+
+Danny also required further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases. The null values are for records when customers are not yet part of the loyalty program.
+
+![Ranking](Images/Ranking_of_customer_product.PNG)
 
 ## Conclusion and Recommendations
-o use these insights to help him decide whether to expand his existing customer loyalty program.
+
 
 Customer C is yet to be a member and should be convinced to do so.
-
+o use these insights to help him decide whether to expand his existing customer loyalty program.
