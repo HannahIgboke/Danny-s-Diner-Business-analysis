@@ -53,6 +53,7 @@ The following skills/concepts were demonstrated in the course of this project:
 - Common Table Expressions
 - Subqueries
 - Window Functions for ranking
+- Project documentation
 
 ## Data Analysis
 
