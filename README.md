@@ -1,4 +1,4 @@
-# Danny-s-Diner: Business-analysis
+# Danny's Diner: Business-analysis
 
 ### _Insights and Recommendations to Help Danny's Diner Thrive._
 
