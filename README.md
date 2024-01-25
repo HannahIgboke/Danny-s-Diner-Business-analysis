@@ -2,7 +2,7 @@
 
 ### _Insights and Recommendations to Help Danny's Diner Thrive._
 
-![Danny's Diner](Images/Danny's_diner.png)
+![Danny's Diner](Images/Diner.jpg)
 
 ## Introduction
 
